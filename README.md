@@ -75,9 +75,7 @@ A **Creative Technologist** and Computer Science Engineering student building in
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuberbassi&theme=transparent&hide_border=true&stroke=FFFFFF&background=121212&ring=F7264B&fire=F7264B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="Kuber Bassi GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuberbassi&bg_color=121212&color=FFFFFF&line=F7264B&point=FF3856&area=true&hide_border=true" alt="Kuber Bassi GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuberbassi&bg_color=121212&color=FFFFFF&line=F7264B&point=FF3856&area=true&hide_border=true&cache_bust=86400" alt="Kuber Bassi GitHub Contribution Graph" />
 </p>
 
 <div align="center">
