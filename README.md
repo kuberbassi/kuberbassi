@@ -1,65 +1,47 @@
-( ◡́.◡̀)(^◡^ )
-                                
-# Hey, I'm Kuber.
+<div align="center">
 
-## System Architect | Python Developer | Musician 🎸
+# ⚡ Kuber Bassi
+### System Architect & Python Developer
 
-> *Turning chaos into clarity, one robust system at a time.*
-
----
-
-### **🎯 Core Identity**
-
-<p align="center">
-    <img src="https://img.shields.io/badge/System_Architect-22AA99?style=flat-square&logo=git&logoColor=white" alt="System Architect Badge"/>
-    <img src="https://img.shields.io/badge/Python_Developer-22AA99?style=flat-square&logo=python&logoColor=white" alt="Python Developer Badge"/>
-    <img src="https://img.shields.io/badge/Musician-22AA99?style=flat-square&logo=musicbrainz&logoColor=white" alt="Musician Badge"/>
+<p>
+<em>"Turning Chaos into Clarity"</em>
+<br>
+I build systems that actually work. My focus is on structure, efficiency, and the "Big Picture" architecture.
 </p>
 
----
+<a href="https://kuberbassi.vercel.app"><strong>🌐 Visit My Portfolio</strong></a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://www.linkedin.com/in/kuberbassi"><strong>💼 Connect on LinkedIn</strong></a>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kuberbassi&label=PROFILE%20VIEWS&color=7553ff&style=flat-square" alt="Profile Views" />
-</p>
+<br>
+<br>
 
----
-
-### **🧠 The Vibe**
-
-I'm a **CSE Undergrad** who prefers structure over spaghetti code. I treat software architecture like music production: if the rhythm (logic) is off, the track (app) won't hit.
-
-I specialize in **System Architecture** and **Legacy Optimization**—making old hardware run like new. I build tools that automate the boring stuff so we can focus on the cool stuff.
+</div>
 
 ---
 
-### **⚡ The Stack**
+### ⚙️ Core System Specs
 
-I work with tools that get the job done efficiently.
+| Focus Area | Primary Tooling | The Edge (What I Do) |
+| :--- | :--- | :--- |
+| **Architecture** | Python, System Design | Planning the logic flow before writing code. |
+| **Deployment** | Node.js, Vercel, cPanel | Taking projects from "Localhost" to **LIVE**. |
+| **Efficiency** | AI Prompting, Automation | **4X Faster** prototyping using AI workflows. |
 
-* **🧠 The Brain (Backend & Logic):** `Python` `Node.js` `System Design`
-* **🌐 The Face (Web):** `JavaScript` `React` `Vercel` `cPanel`
-* **🔧 The Gear (Tools):** `Git` `Generative AI Workflows` `Automation`
+<br>
+
+### 💡 The "Clarity Engine" Philosophy
+
+| Principle | Description |
+| :--- | :--- |
+| **Problem Solving** | I transform messy requirements into clean, actionable system plans. |
+| **Legacy Optimization** | I squeeze maximum performance out of limited or older hardware. |
+| **Musical Logic** | I apply the rules of **Rhythm & Arrangement** to write stable code. |
+
+<br>
 
 ---
 
-### **🔭 Currently**
-
-* **Learning:** Deep diving into **IoT** and **Game Development** logic.
-* **Listening:** Probably analyzing the mix on a new track while debugging.
-* **Status:** **[Code Freeze]** 🧊 Locked in for academic exams. Back to shipping soon.
-
----
-
-### **🤝 Let's Connect**
-
-If you like clean code, smart systems, or just want to talk music tech, hit me up.
-
-<p align="center">
-    <a href="https://linkedin.com/in/kuberbassi"><strong>LinkedIn</strong></a> • 
-    <a href="https://kuberbassi.vercel.app"><strong>Portfolio</strong></a> • 
-    <a href="mailto:kuberbassi2007@gmail.com"><strong>Email</strong></a>
-</p>
-
-<p align="center">
-    <sub><i>"Squeezing maximum performance out of limited hardware since 2020."</i></sub>
-</p>
+<div align="center">
+    <p>Based in Delhi, India 🇮🇳 | Focused on High-Performance Systems</p>
+</div>
