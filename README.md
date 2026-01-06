@@ -9,7 +9,7 @@
 I build systems that actually work. My focus is on structure, efficiency, and the "Big Picture" architecture.
 </p>
 
-<a href="https://kuberbassi.vercel.app"><strong>🌐 Visit My Portfolio</strong></a>
+<a href="https://kuberbassi.com"><strong>🌐 Visit My Portfolio</strong></a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://www.linkedin.com/in/kuberbassi"><strong>💼 Connect on LinkedIn</strong></a>
 
