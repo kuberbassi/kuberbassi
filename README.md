@@ -2,28 +2,19 @@
 
 # KUBER BASSI
 
-### Systems • Music • Resonance
+### Full-Stack Developer • Product Engineer • AI & Automation
 
 🌐 **https://kuberbassi.com**
 
 </div>
 
 ```text
-Engineering structure.
-Composing atmosphere.
-Building the connection between both.
+Build.
+Learn.
+Ship.
 ```
-
-> An archive of ongoing work.
-
-### Current Domains
-
-* ⚙️ Systems Engineering
-* 🎸 Music & Production
-* 🤖 Automation & AI
-* ✨ Digital Design
 
 ### Organizations
 
-* [@kuberbassi-labs](https://github.com/kuberbassi-labs)
-* [@VanguardLogic](https://github.com/VanguardLogic)
+* @kuberbassi-labs
+* @VanguardLogic
