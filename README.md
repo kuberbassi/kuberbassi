@@ -16,5 +16,5 @@ Ship.
 
 ### Organizations
 
-* @kuberbassi-labs
-* @VanguardLogic
+* [@kuberbassi-labs](https://github.com/kuberbassi-labs)
+* [@VanguardLogic](https://github.com/VanguardLogic)
