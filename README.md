@@ -2,7 +2,7 @@
 
 # KUBER BASSI
 
-### Full-Stack Developer • Product Engineer • AI & Automation
+### Full-Stack Developer • Product-Oriented Software Engineer • AI & Automation
 
 🌐 **https://kuberbassi.com**
 
