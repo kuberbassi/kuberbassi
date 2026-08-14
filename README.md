@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://kuberbassi.com"><img src="./assets/header-card.svg" alt="Kuber Bassi KB monogram on a dark topographic background" width="100%" /></a>
+<a href="https://kuberbassi.com"><img src="./assets/header-card.png" alt="Kuber Bassi KB monogram on a dark topographic background" width="100%" /></a>
 
 <img src="./assets/nameplate.svg" alt="Kuber Bassi" width="100%" />
 
