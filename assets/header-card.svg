@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+ <title id="title">Kuber Bassi</title><desc id="desc">KB monogram on a minimal dark topographic background.</desc>
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090a09"/><stop offset=".5" stop-color="#11110f"/><stop offset="1" stop-color="#090a09"/></linearGradient><radialGradient id="glow" cx="50%" cy="50%" r="42%"><stop stop-color="#D5B27E" stop-opacity=".055"/><stop offset="1" stop-color="#D5B27E" stop-opacity="0"/></radialGradient></defs>
+ <rect width="1200" height="260" rx="16" fill="url(#bg)"/><rect width="1200" height="260" rx="16" fill="url(#glow)"/>
+ <g fill="none" stroke="#D5B27E" stroke-width="1" stroke-opacity=".18">
+  <path d="M0 34c66 34 109 5 157 40s84 15 132 52 95 20 139 55"/><path d="M0 18c72 35 117 4 166 39s84 12 137 48 96 12 145 51"/><path d="M0 54c58 29 101 3 146 39s86 20 129 55 88 26 132 58"/>
+  <path d="M1200 28c-67 36-113 7-160 42s-86 15-135 53-94 19-139 57"/><path d="M1200 11c-74 38-119 5-169 41s-85 12-138 49-97 12-146 52"/><path d="M1200 49c-59 31-103 4-148 40s-87 20-131 57-89 25-133 59"/>
+ </g>
+ <g transform="translate(548 38) scale(.72)" fill="none" stroke="#F0ECE5" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"><path d="M0 30v150l74-72-34-34 34-34V0"/><path d="M76 40l40 39-40 39 40 39-74 73v-82"/></g>
+ <path d="M478 218h244" stroke="#D5B27E" stroke-opacity=".28"/><circle cx="600" cy="218" r="2" fill="#D5B27E"/><rect x="1" y="1" width="1198" height="258" rx="15" fill="none" stroke="#D5B27E" stroke-opacity=".14"/>
+</svg>

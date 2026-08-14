@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://kuberbassi.com"><img src="./assets/header-card.png" alt="Kuber Bassi KB monogram on a dark topographic background" width="100%" /></a>
+<a href="https://kuberbassi.com"><img src="./assets/header-card.svg" alt="Kuber Bassi KB monogram on a dark topographic background" width="100%" /></a>
 
 <img src="./assets/nameplate.svg" alt="Kuber Bassi" width="100%" />
 
@@ -83,13 +83,11 @@ Guitarist and music producer releasing original music as **KUβER βΔSSI** · [
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/kuberbassi-labs"><img src="./assets/organization.svg" alt="" width="22" /> <strong>kuberbassi-labs</strong></a><br />
-<sub>Experiments, tools, and independent builds.</sub>
+<td width="50%" align="center">
+<a href="https://github.com/kuberbassi-labs"><img src="./assets/organization.svg" alt="" width="20" /><br /><strong>kuberbassi-labs</strong></a>
 </td>
-<td width="50%">
-<a href="https://github.com/VanguardLogic"><img src="./assets/organization.svg" alt="" width="22" /> <strong>VanguardLogic</strong></a><br />
-<sub>Collaborative software and technical projects.</sub>
+<td width="50%" align="center">
+<a href="https://github.com/VanguardLogic"><img src="./assets/organization.svg" alt="" width="20" /><br /><strong>VanguardLogic</strong></a>
 </td>
 </tr>
 </table>
