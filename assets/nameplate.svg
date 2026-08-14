@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title">
+ <title id="title">Kuber Bassi</title>
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0b0b0a"/><stop offset=".5" stop-color="#15130f"/><stop offset="1" stop-color="#0b0b0a"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#D5B27E" stop-opacity="0"/><stop offset=".28" stop-color="#D5B27E" stop-opacity=".72"/><stop offset=".72" stop-color="#D5B27E" stop-opacity=".72"/><stop offset="1" stop-color="#D5B27E" stop-opacity="0"/></linearGradient>
+ </defs>
+ <rect width="1200" height="112" rx="14" fill="url(#bg)"/>
+ <g fill="none" stroke="#D5B27E" stroke-opacity=".22">
+  <path d="M0 29c75-27 120 19 190-5s111 17 171-6"/><path d="M839 94c69-26 116 17 183-7s111 12 178-12"/>
+ </g>
+ <path d="M84 56h316" stroke="url(#line)"/><path d="M800 56h316" stroke="url(#line)"/>
+ <path d="M393 51l7 5-7 5M807 51l-7 5 7 5" fill="none" stroke="#D5B27E" stroke-width="1.4"/>
+ <text x="600" y="68" text-anchor="middle" fill="#F0ECE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="500" letter-spacing="8">KUBER BASSI</text>
+ <rect x="1" y="1" width="1198" height="110" rx="13" fill="none" stroke="#D5B27E" stroke-opacity=".16"/>
+</svg>
