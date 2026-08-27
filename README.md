@@ -6,7 +6,7 @@
 
 **Independent engineer & product thinker**
 
-Full-stack development · Product engineering · AI & automation
+Full-stack development · Product-Focused Software Engineer · AI & automation
 
 *Turning ideas into clean, useful, and reliable digital products.*
 
